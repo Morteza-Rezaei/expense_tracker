@@ -5,6 +5,6 @@
   <img src="assets/ss/ss_1.jpg" width="200px" />
   <img src="assets/ss/ss_2.jpg" width="200px" />
   <img src="assets/ss/ss_3.jpg" width="200px" />
-  <img src="assets/ss/ss_4.jpg" width="200px" />
-  <img src="assets/ss/ss_5.jpg" width="200px" />
+  <img src="assets/ss/ss_4.jpg" width="500px" />
+  <img src="assets/ss/ss_5.jpg" width="500px" />
 </div>
